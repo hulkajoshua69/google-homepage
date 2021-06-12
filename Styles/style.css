@@ -113,6 +113,10 @@ html, body {
     border: 2px solid #eee;
 }
 
+.button a:hover {
+    text-decoration: none;
+}
+
 #links {
     margin-top: 20px;
     text-align: center;
