@@ -1,0 +1,1 @@
+This project is practice for building a webpage using HTML and CSS.
